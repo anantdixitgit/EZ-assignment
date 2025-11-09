@@ -1,0 +1,297 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.homeimage11 {
+  width: 465px;
+  height: 465px;
+  top: 257px;
+  left: 190px;
+  opacity: 1;
+}
+
+.homeimage12 {
+  width: 250px;
+  height: 100px;
+  angle: 0 deg;
+  opacity: 1;
+  top: 464px;
+  left: 278px;
+}
+
+.homeimage21 {
+  width: 825px;
+  height: 230px;
+  top: 234px;
+  left: 897px;
+  opacity: 1;
+}
+
+.homeimage22 {
+  width: 322px;
+  height: 63px;
+  top: 526px;
+  left: 1148px;
+  opacity: 1;
+}
+
+.homeimage23 {
+  width: 487px;
+  height: 154px;
+  top: 673px;
+  left: 1066px;
+  angle: 0 deg;
+  opacity: 1;
+}
+
+.teams11 {
+  width: 551.4711366607129;
+  height: 438.0000049954622;
+  top: 20px;
+  left: 170.96px;
+  angle: 10.19 deg;
+  opacity: 1;
+  gap: 10px;
+  padding-top: 48px;
+  padding-right: 51px;
+  padding-bottom: 48px;
+  padding-left: 51px;
+}
+
+.teams12 {
+  width: 68.43314361572266px;
+  height: 116.82256317138672px;
+  top: 296.7px;
+  left: 298.02px;
+  angle: 0 deg;
+  opacity: 1;
+}
+
+.teams21 {
+  width: 647.636474609375px;
+  height: 397px;
+  top: 341px;
+  left: 958px;
+  angle: 0 deg;
+  opacity: 1;
+}
+
+.teams22 {
+  font-family: Halant;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.teamsarrow1 {
+  width: 102.93087005615234px;
+  height: 146px;
+  top: 343px;
+  left: 1648px;
+  angle: 0 deg;
+  opacity: 1;
+  border-width: 2px;
+}
+
+.button1 {
+  width: 136;
+  height: 44;
+  top: 925px;
+  left: 1213px;
+  angle: 0 deg;
+  opacity: 1;
+  gap: 8px;
+  padding-top: 12px;
+  padding-right: 16px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  border-radius: 24px;
+  background: #f15d2b;
+}
+
+.storyheading {
+  width: 793;
+  height: 63;
+  top: 100px;
+  left: 563px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Halant;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.storyborder {
+  width: 1920;
+  height: 113.47335052490234;
+  top: 966px;
+  angle: 0 deg;
+  opacity: 1;
+}
+
+.Filmproduction1 {
+  width: 429.3999938964844;
+  height: 548.3828125;
+  top: 292.37px;
+  left: 376px;
+  angle: 0 deg;
+  opacity: 1;
+  gap: 9.5px;
+  padding-top: 11.4px;
+  padding-right: 9.5px;
+  padding-bottom: 11.4px;
+  padding-left: 9.5px;
+}
+
+.filmpara {
+  width: 636;
+  height: 440;
+  top: 292px;
+  left: 907px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Instrument Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 32px;
+  leading-trim: NONE;
+  line-height: 44px;
+  letter-spacing: 0%;
+}
+
+.para {
+  width: 636px;
+  height: 484px;
+  angle: 0 deg;
+  opacity: 1;
+  top: 292px;
+  left: 907px;
+  font-family: Instrument Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 32px;
+  leading-trim: NONE;
+  line-height: 44px;
+  letter-spacing: 0%;
+  color: #252729;
+}
+
+.Portfolio {
+  width: 364px;
+  height: 104px;
+  top: 120px;
+  left: 778px;
+  angle: 0 deg;
+  opacity: 1;
+  gap: 12px;
+}
+
+.portfolioImage {
+  width: 830px;
+  height: 503px;
+  top: 284px;
+  left: 469px;
+  angle: 0 deg;
+  opacity: 1;
+}
+
+.portfolioImage1 {
+  width: 364px;
+  height: 104px;
+  top: 120px;
+  left: 778px;
+  angle: 0 deg;
+  opacity: 1;
+  gap: 12px;
+}
+
+.portfolioImage2 {
+  width: 170px;
+  height: 400px;
+  top: 240px;
+  left: 120px;
+  angle: 0 deg;
+  opacity: 1;
+}
+
+.formpara {
+  width: 600px;
+  height: 145px;
+  top: 467px;
+  left: 210px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Instrument Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.formheading {
+  width: 364px;
+  height: 63px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Halant;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.formpara2 {
+  width: 700px;
+  height: 679.4000244140625px;
+  top: 200px;
+  left: 1010px;
+  angle: 0 deg;
+  opacity: 1;
+  gap: 80px;
+}
+
+storyimage1 {
+  width: 429.4000122259008px;
+  height: 548.3828359083304px;
+  angle: -8 deg;
+  opacity: 1;
+  top: 265.16px;
+  left: 208.55px;
+  gap: 9.5px;
+  padding-top: 11.4px;
+  padding-right: 9.5px;
+  padding-bottom: 11.4px;
+  padding-left: 9.5px;
+}
+
+.homepara2 {
+  width: 487px;
+  height: 154px;
+  angle: 0 deg;
+  opacity: 1;
+  top: 673px;
+  left: 1066px;
+  font-family: Instrument Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 18px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}

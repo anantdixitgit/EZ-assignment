@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "bb7168f6-1b8a-4a98-b770-543b7a5041c2",
+		"name": "EZ Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47626635",
+		"_collection_link": "https://anantdixit100-5106651.postman.co/workspace/Anant-Dixit's-Workspace~27d13f59-d3bd-436f-855d-4d45b080727b/collection/47626635-bb7168f6-1b8a-4a98-b770-543b7a5041c2?action=share&source=collection_link&creator=47626635"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
