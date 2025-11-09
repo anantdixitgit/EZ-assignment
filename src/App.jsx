@@ -8,7 +8,7 @@ import Story from "./components/Story.jsx";
 import FilmProduction from "./components/FilmProduction";
 import Branding from "./components/Branding.jsx";
 import Artcurtain from "./components/Artcurtain";
-import Portfolio from "./components/portfolio";
+import Portfolio from "./components/Portfolio.jsx";
 import Forms from "./components/Forms";
 import Navbar from "./components/Navbar.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
